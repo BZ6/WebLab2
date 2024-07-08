@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>web.xelj</groupId>
-  <artifactId>weblab2</artifactId>
+  <artifactId>WebLab2</artifactId>
   <packaging>war</packaging>
   <properties>
     <maven.compiler.source>17</maven.compiler.source>
@@ -30,7 +30,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>weblab2</finalName>
+    <finalName>WebLab2</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
